@@ -294,10 +294,6 @@ body {
     display: none !important;
   }
 
-  .share-toggle {
-    display: none;
-  }
-
   .mobile-share-bar.active {
     display: flex;
   }
